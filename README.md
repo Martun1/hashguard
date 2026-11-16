@@ -13,6 +13,8 @@
 <img src="docs/check.png" width="820" alt="hashguard integrity check">
 
 </div>
+> 🎥 **[Watch the demo video →](docs/demo.mp4)** (download to play)
+
 
 ---
 
