@@ -1,0 +1,8 @@
+build/
+/hashguard
+*.exe
+.hashguard.db
+demo/webroot/
+cmake-build-*/
+.idea/
+.vscode/
